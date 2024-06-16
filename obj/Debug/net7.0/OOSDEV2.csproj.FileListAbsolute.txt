@@ -1,0 +1,29 @@
+C:\Users\Jerome\source\repos\OOSDEV2\bin\Debug\net7.0\OOSDEV2.exe
+C:\Users\Jerome\source\repos\OOSDEV2\bin\Debug\net7.0\OOSDEV2.deps.json
+C:\Users\Jerome\source\repos\OOSDEV2\bin\Debug\net7.0\OOSDEV2.runtimeconfig.json
+C:\Users\Jerome\source\repos\OOSDEV2\bin\Debug\net7.0\OOSDEV2.dll
+C:\Users\Jerome\source\repos\OOSDEV2\bin\Debug\net7.0\OOSDEV2.pdb
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.AssemblyInfoInputs.cache
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.AssemblyInfo.cs
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.dll
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\refint\OOSDEV2.dll
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.pdb
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\OOSDEV2.genruntimeconfig.cache
+C:\Users\Jerome\source\repos\OOSDEV2\obj\Debug\net7.0\ref\OOSDEV2.dll
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\bin\Debug\net7.0\OOSDEV2.exe
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\bin\Debug\net7.0\OOSDEV2.deps.json
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\bin\Debug\net7.0\OOSDEV2.runtimeconfig.json
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\bin\Debug\net7.0\OOSDEV2.dll
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\bin\Debug\net7.0\OOSDEV2.pdb
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.AssemblyInfo.cs
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.sourcelink.json
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.dll
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\refint\OOSDEV2.dll
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.pdb
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\OOSDEV2.genruntimeconfig.cache
+C:\Users\User\Desktop\My development\OOSDEV2\OOSDEV2\obj\Debug\net7.0\ref\OOSDEV2.dll
